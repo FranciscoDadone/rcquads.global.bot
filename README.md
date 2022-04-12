@@ -15,11 +15,11 @@
 </p>
 
 <h1>
-  THIS REPOSITORY IS A FORK FROM ```rcplanes.global.bot```
+  THIS REPOSITORY IS A FORK FROM 
+  <a href="https://github.com/FranciscoDadone/rcplanes.global.bot">
+    rcplanes.global.bot
+  </a>
 </h1>
-<a href="https://github.com/FranciscoDadone/rcplanes.global.bot">
-  Original repo
-</a>
 
 This started as a way to advertise and make more visible RC stuff.
 
