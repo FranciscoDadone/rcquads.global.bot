@@ -16,8 +16,8 @@
 
 <h1>
   THIS REPOSITORY IS A FORK FROM 
-  <a href="https://github.com/FranciscoDadone/rcquads.global.bot">
-    rcquads.global.bot
+  <a href="https://github.com/FranciscoDadone/rcplanes.global.bot">
+    rcplanes.global.bot
   </a>
 </h1>
 
