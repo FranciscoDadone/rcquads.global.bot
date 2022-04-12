@@ -21,7 +21,8 @@
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": false,
-    "strict": true
+    "strict": true,
+    "typeRoots": ["node_modules/@types", "src/types"]
   },
 	"exclude": [
     "node_modules",

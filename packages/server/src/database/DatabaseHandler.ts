@@ -11,8 +11,8 @@ export function close() {
 
 async function initDB() {
   const sql = 'INSERT INTO hashtagsToFetch (hashtag) VALUES (?)';
-  database.run(sql, ['aeromodelismo']);
-  database.run(sql, ['rcplanes']);
+  database.run(sql, ['freestylequads']);
+  database.run(sql, ['rcquads']);
 
   database.run(
     'INSERT INTO credentials (username, password, sessionid) VALUES ("","","");'

@@ -6,9 +6,9 @@
     <img src="packages/client/src/assets/images/icon.png" />
 </a>
 
-  <h3 align="center">rcplanes.global.bot</h3>
+  <h3 align="center">rcquads.global.bot</h3>
   <p align="center">
-  Instagram bot to fetch images and videos of RC planes and repost them.
+  Instagram bot to fetch images and videos of RC quads and repost them.
 <br />
     <br />
   </p>
@@ -16,8 +16,8 @@
 
 <h1>
   THIS REPOSITORY IS A FORK FROM 
-  <a href="https://github.com/FranciscoDadone/rcplanes.global.bot">
-    rcplanes.global.bot
+  <a href="https://github.com/FranciscoDadone/rcquads.global.bot">
+    rcquads.global.bot
   </a>
 </h1>
 
@@ -75,7 +75,7 @@ This project is based on my other project that is the same app but built using E
 #### Regular install
 1. Clone the repo.
    ```sh
-   $ git clone https://github.com/FranciscoDadone/rcplanes.global.bot-webversion
+   $ git clone https://github.com/FranciscoDadone/rcquads.global.bot
    ```
 2. Install dependencies
    ```sh
@@ -226,7 +226,7 @@ This project is based on my other project that is the same app but built using E
 
 - Francisco Dadone - [@franciscodadone](https://www.instagram.com/franciscodadone/) - dadonefran@gmail.com
 
-- Project Link: [https://github.com/FranciscoDadone/rcplanes.global.bot](https://github.com/FranciscoDadone/rcplanes.global.bot)
+- Project Link: [https://github.com/FranciscoDadone/rcquads.global.bot](https://github.com/FranciscoDadone/rcquads.global.bot)
 
 
 # TO-DO

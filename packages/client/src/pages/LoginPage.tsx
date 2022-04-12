@@ -37,7 +37,7 @@ function LoginPage() {
         <hr />
         <br />
         <Image src={icon} fluid roundedCircle />
-        <h4>RcPlanesGlobal</h4>
+        <h4>RcQuadsGlobal</h4>
         <Alert
           variant="danger"
           onClose={() => setShowError(false)}

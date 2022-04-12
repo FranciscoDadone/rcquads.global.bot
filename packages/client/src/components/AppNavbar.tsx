@@ -54,11 +54,11 @@ export default function AppNavbar() {
         <Container fluid>
           <Navbar.Brand
             className="navBrand"
-            href="https://www.instagram.com/rcplanes.global/"
+            href="https://www.instagram.com/quads.global/"
             target="_blank"
           >
             <img src={appIcon} alt="App icon" className="navbarBrand" />
-            &nbsp;&nbsp;RcPlanesBot
+            &nbsp;&nbsp;RcQuadsBot
           </Navbar.Brand>
           <div className="verticalLine" />
           <Navbar.Toggle aria-controls="navbarScroll" />

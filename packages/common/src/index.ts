@@ -1,1 +1,1 @@
-export const APP_NAME = "RcPlanesGlobal";
+export const APP_NAME = "RcQuadsGlobal";
