@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/FranciscoDadone/rcplanes.global.bot-webversion">
+  <a href="https://github.com/FranciscoDadone/rcquads.global.bot">
     <img src="packages/client/src/assets/images/icon.png" />
 </a>
 
@@ -13,6 +13,13 @@
     <br />
   </p>
 </p>
+
+<h1>
+  THIS REPOSITORY IS A FORK FROM ```rcplanes.global.bot```
+</h1>
+<a href="https://github.com/FranciscoDadone/rcplanes.global.bot">
+  Original repo
+</a>
 
 This started as a way to advertise and make more visible RC stuff.
 
